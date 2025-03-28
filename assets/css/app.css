@@ -71,6 +71,7 @@ body{
     line-height:1.5;
     font-family: "Open Sans", sans-serif;
     font-size: 1.6rem;
+    overflow-x: hidden;
 }
 .header{
     
@@ -596,9 +597,11 @@ body{
 }
 .footer__site-navigation{
     background-color: var(--light-blue);
+    
+    
 }
 .footer__header{
-
+    
 }
 .footer__list{
     
